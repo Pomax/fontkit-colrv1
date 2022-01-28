@@ -1,0 +1,27 @@
+{
+  "name": "fontkit-colrv1",
+  "version": "0.0.1",
+  "description": "A bolt-on for fontkit that adds COLR v1 table parsing. Not cleanly, but at least it adds it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pomax/fontkit-colrv1.git"
+  },
+  "keywords": [
+    "fontkit",
+    "colr"
+  ],
+  "author": "Pomax",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Pomax/fontkit-colrv1/issues"
+  },
+  "homepage": "https://github.com/Pomax/fontkit-colrv1#readme",
+  "dependencies": {
+    "fontkit": "^1.8.1",
+    "restructure": "^2.0.0"
+  }
+}
